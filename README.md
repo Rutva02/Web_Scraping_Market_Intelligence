@@ -142,10 +142,8 @@ Web_Scraping/
 
 ### 1. Clone the Repository
 
-```bash
-git clone YOUR_REPOSITORY_URL
-cd Web_Scraping
-```
+git clone https://github.com/Rutva02/Web_Scraping_Market_Intelligence.git
+cd Web_Scraping_Market_Intelligence
 
 ### 2. Install Dependencies
 
