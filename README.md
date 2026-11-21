@@ -109,16 +109,29 @@ The following analyses were performed:
 
 ## Visualizations
 
-Four visualizations were created to communicate the findings:
+Four visualizations were created to communicate the findings of the exploratory data analysis. These charts help understand book pricing patterns, customer ratings, and the relationship between price and rating.
 
-| Visualization | Purpose |
-|---|---|
-| `price_distribution.png` | Understand the distribution of book prices |
-| `rating_distribution.png` | Compare the number of books across rating levels |
-| `price_vs_rating.png` | Examine the relationship between price and rating |
-| `price_by_rating.png` | Compare price distributions across rating groups |
+### 1. Price Distribution
+Shows how book prices are distributed across the catalogue.
 
-All visualizations are available in the `visualizations/` directory.
+![Price Distribution](visualizations/price_distribution.png)
+
+### 2. Rating Distribution
+Displays the number of books belonging to each rating category (1 to 5 stars).
+
+![Rating Distribution](visualizations/rating_distribution.png)
+
+### 3. Price vs Rating
+Examines the relationship between book prices and their ratings.
+
+![Price vs Rating](visualizations/price_vs_rating.png)
+
+### 4. Price by Rating
+Compares book price distributions across different rating groups.
+
+![Price by Rating](visualizations/price_by_rating.png)
+
+All visualization images are stored in the `visualizations/` directory of this repository.
 
 ## Project Structure
 
